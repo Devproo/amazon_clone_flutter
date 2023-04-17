@@ -1,4 +1,4 @@
-# flutter_twitter_clone
+# flutter_amazon_clone
 
 A new Flutter project.
 
