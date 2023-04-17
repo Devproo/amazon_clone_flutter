@@ -1,6 +1,6 @@
 # flutter_amazon_clone
 
-A new Flutter project.
+A new Flutter project. with help of Rivaan Ranawalt
 
 ## Getting Started
 
